@@ -7,14 +7,16 @@ body, html {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
-  color: #333;
+  color: rgb(65, 68, 65);
+  background-color: #4b4545;
 }
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #040705;
   font-weight: bold;
   transition: color .1s;
+  margin-right: 10px;
 }
 
 a:hover {
@@ -75,15 +77,24 @@ form label {
 }
 
 header {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgb(17, 15, 15);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 1%;
+  padding: 10px;
+  background-color: #cacaca;
+}
+
+main {
+  background-color: gainsboro;
 }
 
 header h1 {
-  font-size: 1em;
+  /* font-size: 1em; */
+  background-image: linear-gradient(to right, #1e6398, #1f1f20);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 30px;
 }
 
 main {
@@ -133,14 +144,6 @@ main {
   margin: -1.5% 0 2% 0;
 }
 
-.upvote-btn {
-  background-color: #197d0f;
-  transition: background-color .1s;
-}
-
-.upvote-btn:hover {
-  background-color: #1f9c13;
-}
 
 .comment-form {
   margin-bottom: 5%;
@@ -173,6 +176,7 @@ footer {
   border-top: 1px solid #ccc;
   display: flex;
   justify-content: center;
-  padding: 1%;
+  padding: 10px;
   font-size: 110%;
+  background-color: #cacaca;
 }
