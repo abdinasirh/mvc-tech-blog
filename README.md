@@ -7,6 +7,16 @@ This application allows users to create posts, view posts and comment on posts.I
 
 [App is deployed here](https://mymvctechblog.herokuapp.com/)
 
+![image](https://user-images.githubusercontent.com/68516914/153005144-9073cba2-2748-4270-958b-f403a5382cd7.png)
+
+![image](https://user-images.githubusercontent.com/68516914/153005217-d43ccbd9-eafc-4a2d-b01c-be0751e0402f.png)
+
+
+![image](https://user-images.githubusercontent.com/68516914/153005267-874e47ad-894a-47fa-9908-bc6ca399d38c.png)
+
+![image](https://user-images.githubusercontent.com/68516914/153005306-a4bca1df-7dce-4289-9090-c455d98f030f.png)
+
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -38,8 +48,6 @@ If you have questions, you can reach me at
 * Email: abdinasirduud20@gmail.com
 * Github: https://github.com/abdinasirh
 
-You can watch video demonstration here: [Demo](https://watch.screencastify.com/v/kvGUIR85xPzWeHE3lh6M)
 
-![image](https://user-images.githubusercontent.com/68516914/145653494-1f6b20a7-1a71-434f-9d08-988ff491031b.png)
 
 
