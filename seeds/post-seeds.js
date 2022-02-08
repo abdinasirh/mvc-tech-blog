@@ -1,9 +1,9 @@
-// const { Post } = require('../models');
+const { Post } = require('../models');
 
-// const postdata = [
+const postdata = [
   
-// ];
+];
 
-// const seedPosts = () => Post.bulkCreate(postdata);
+const seedPosts = () => Post.bulkCreate(postdata);
 
-// module.exports = seedPosts;
+module.exports = seedPosts;
